@@ -8,7 +8,6 @@ const wrapper = document.querySelector(".wrapper"),
   mainAudio = wrapper.querySelector("#main-audio"),
   progressArea = wrapper.querySelector(".progress-area"),
   progressBar = progressArea.querySelector(".progress-bar"),
-  //musicList = wrapper.querySelector(".music-list"),
   moreMusicBtn = wrapper.querySelector("#more-music"),
   closemoreMusic = musicList.querySelector("#close");
 
